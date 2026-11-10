@@ -22,3 +22,5 @@ server:
 
 exchange-rate:
   base-url: https://api.frankfurter.app
+  connect-timeout: 5s
+  read-timeout: 6s
